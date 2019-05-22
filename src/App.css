@@ -13,7 +13,6 @@
   position: fixed;
   top: 7%;
   left: 40%;
-
 }
 
 .row {
@@ -27,24 +26,22 @@
   width: 400px;
   display: flex;
   flex-direction: column;
-  margin: 0 auto
-  
+  margin: 0 auto;
 }
 
 .status {
   width: fit-content;
   padding-top: 10px;
   position: fixed;
-  bottom: 43%;
-  left: 46%
+  bottom: 40%;
+  left: 46%;
+  color: blue;
 }
 
-.msg{
+.msg {
   width: fit-content;
   position: fixed;
   left: 44%;
-  
-
 }
 body {
   height: 50%;
