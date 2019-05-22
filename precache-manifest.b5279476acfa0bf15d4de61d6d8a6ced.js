@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "97260cb030bb84108f42",
-    "url": "/moumitaguri.github.io/tic-tac-toe-in-react/static/css/main.c2ce4151.chunk.css"
+    "revision": "10528c6da8d806ebd9ce",
+    "url": "/moumitaguri.github.io/tic-tac-toe-in-react/static/css/main.605ec67e.chunk.css"
   },
   {
-    "revision": "97260cb030bb84108f42",
-    "url": "/moumitaguri.github.io/tic-tac-toe-in-react/static/js/main.f71daaa5.chunk.js"
+    "revision": "10528c6da8d806ebd9ce",
+    "url": "/moumitaguri.github.io/tic-tac-toe-in-react/static/js/main.a45552b5.chunk.js"
   },
   {
     "revision": "3390efe0db0e48da13ce",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/moumitaguri.github.io/tic-tac-toe-in-react/static/js/2.56cb80cd.chunk.js"
   },
   {
-    "revision": "75849d29aed1302431e41a9bfc168a45",
+    "revision": "32899a5ee81967998d38268076f3a483",
     "url": "/moumitaguri.github.io/tic-tac-toe-in-react/index.html"
   }
 ];
